@@ -5,7 +5,7 @@ built with **pytest** + **playwright-python**.
 
 ## Setup
 
-**NOTE** If you don't have *UV astral* installed please run this code:
+**NOTE** If you don't have [UV astral](https://docs.astral.sh/uv/) installed please run this code:
 
 *For MacOS*
 ```bash
